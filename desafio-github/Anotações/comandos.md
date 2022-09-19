@@ -9,5 +9,5 @@
 - git branch -m master - _Cria ramificações no git para alterações nos arquivos do projeto_
 - git checkout - _Entrar/Navegar numa branch_
 - git pull - _Obter atualizações de um repositório_
-- git revert - _Desfaz commits_
-  - git log --oneline - _Mostra histórico de commits_
+- git revert - _Desfaz commits__
+- _git log --oneline - _Mostra histórico de commits_
