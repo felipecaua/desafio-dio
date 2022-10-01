@@ -1,1 +1,1 @@
-# Análise de dados com Python :skull_and_crossbones:
+# Análise de dados com Python 

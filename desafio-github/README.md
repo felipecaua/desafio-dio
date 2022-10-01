@@ -1,4 +1,4 @@
-# Desafio de Projeto Git/GitHub DIO :skull:
+# Desafio de Projeto Git/GitHub DIO 
 
 ## Links Úteis
 
